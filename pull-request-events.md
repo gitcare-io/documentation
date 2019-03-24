@@ -1,0 +1,17 @@
+- pull_request_assigned
+- pull_request_unassigned
+- pull_request_labeled
+- pull_request_unlabeled
+- pull_request_opened
+- pull_request_edited
+- pull_request_closed
+- pull_request_reopened
+- pull_request_synchronized
+- pull_request_review_requested
+- pull_request_review_request_removed
+- pull_request_review_submitted
+- pull_request_review_edited
+- pull_request_review_dismissed
+- pull_request_review_comment_created
+- pull_request_review_comment_edited
+- pull_request_review_comment_deleted
